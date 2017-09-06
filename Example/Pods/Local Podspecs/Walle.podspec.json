@@ -1,0 +1,36 @@
+{
+  "name": "Walle",
+  "version": "1.2.0",
+  "summary": "A s hort description of Walle.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "http://192.168.1.33:9090/ioscomponentgroup/Walle.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "quvideo": "hongru.qi@quvideo.com"
+  },
+  "source": {
+    "git": "http://192.168.1.33:9090/ioscomponentgroup/Walle.git",
+    "tag": "1.2.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Walle/Classes/**/*",
+  "dependencies": {
+    "CocoaLumberjack": [
+      "3.1.0"
+    ],
+    "JRSwizzle": [
+
+    ],
+    "XYCommonKit": [
+
+    ],
+    "AFNetworking": [
+      "~> 3.1.0"
+    ]
+  }
+}
